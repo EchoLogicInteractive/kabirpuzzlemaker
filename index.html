@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kabir Puzzle Maker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="splash" class="splash">
+    <img id="title-img" src="kabir_title.png" alt="Kabir Puzzle Maker" />
+    <button id="start-btn">START</button>
+ src="kabir_title.png" alt="Kabir Puzzle Maker" />
+  </div>
+  <audio id="bg-music" src="bg.mp3" loop></audio>
+  <div id="app" class="app hidden">
+    <div class="controls">
+      <button id="upload-btn" class="ctrl-btn"><img src="upload_btn.png" alt="Upload"></button>
+      <input type="file" id="image-input" accept="image/*" hidden>
+      <button id="clear-btn" class="ctrl-btn"><img src="clear_btn.png" alt="Clear"></button>
+      <button id="music-toggle" class="ctrl-btn"><img id="music-icon" src="music_on.png" alt="Music"></button>
+    </div>
+    <div class="main">
+      <div id="pieces-container" class="pieces-container"></div>
+      <div id="board-container" class="board-container"></div>
+    </div>
+  </div>
+  
+  <audio id="move-sound" src="move.mp3"></audio>
+  <audio id="place-sound" src="place.mp3"></audio>
+
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
