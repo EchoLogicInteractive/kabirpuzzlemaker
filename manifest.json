@@ -1,0 +1,56 @@
+{
+  "background_color": "#ffffff",
+  "description": "Nobody breaks into your house and tries to steal your stuff without a lead shower - it’s time to Shoot Robbers! One of the most thrilling and hauntingly realistic titles from our action category, this game sets you up in a crow’s nest overlooking your own home. You’ve taken your position and loaded your gun. Now all that is left to do is wait for those cowardly little criminals to walk in front of a window",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Shoot-Robbers",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Shoot-Robbers",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "productivity"
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshot1.png",
+      "sizes": "1919x1024",
+      "type": "image/png"
+    }
+  ],
+  "icons": [
+    {
+      "src": "images/icon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/icon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "images/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "images/icon-any.png",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Shoot-Robbers",
+      "url": "",
+      "description": "Nobody breaks into your house and tries to steal your stuff without a lead shower - it’s time to Shoot Robbers! One of the most thrilling and hauntingly realistic titles from our action category, this game sets you up in a crow’s nest overlooking your own home. You’ve taken your position and loaded your gun. Now all that is left to do is wait for those cowardly little criminals to walk in front of a window"
+    }
+  ]
+}
