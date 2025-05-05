@@ -9,9 +9,6 @@
   "short_name": "Kabir Puzzle Maker",
   "start_url": "/",
   "theme_color": "#ffffff",
-  "categories": [
-    "productivity"
-  ],
   "screenshots": [
     {
       "src": "images/screenshot1.png",
@@ -52,5 +49,10 @@
       "url": "",
       "description": "Kabir Puzzle Maker"
     }
-  ]
+  ],
+  "categories": [
+    "entertainment",
+    "utilities"
+  ],
+  "id": "1.2"
 }
