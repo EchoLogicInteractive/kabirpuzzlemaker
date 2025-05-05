@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Nobody breaks into your house and tries to steal your stuff without a lead shower - it’s time to Shoot Robbers! One of the most thrilling and hauntingly realistic titles from our action category, this game sets you up in a crow’s nest overlooking your own home. You’ve taken your position and loaded your gun. Now all that is left to do is wait for those cowardly little criminals to walk in front of a window",
+  "description": "Kabir Puzzle Maker",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Shoot-Robbers",
+  "name": "Kabir Puzzle Maker",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Shoot-Robbers",
+  "short_name": "Kabir Puzzle Maker",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,9 +48,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Shoot-Robbers",
+      "name": "Kabir Puzzle Maker",
       "url": "",
-      "description": "Nobody breaks into your house and tries to steal your stuff without a lead shower - it’s time to Shoot Robbers! One of the most thrilling and hauntingly realistic titles from our action category, this game sets you up in a crow’s nest overlooking your own home. You’ve taken your position and loaded your gun. Now all that is left to do is wait for those cowardly little criminals to walk in front of a window"
+      "description": "Kabir Puzzle Maker"
     }
   ]
 }
